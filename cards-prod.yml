@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to EazyBank cards PROD related local APIs "
+  message: "Welcome to EazyBank cards PROD related WebHook local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "{cipher}8e202473d7226387cff11c9905ca7d8c874c47ad7165c7e7a3f387f7a5171c5c3155b0ee47f8549833ba014851d96ac9"
